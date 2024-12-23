@@ -1,6 +1,7 @@
 # Hi there 👋
 
 Language:
+
 <a href="#">
     <img src="assets/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>  
@@ -14,7 +15,7 @@ Language:
     <img src="assets/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>  
 <a href="#">
-    <img src="assets/css3.svg.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="assets/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>  
 
 
