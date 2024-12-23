@@ -1,10 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
-Language: 
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Language:
+<a href="#">
+    <img src="assets/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a>  
 
 <!--
 **Hazi7/Hazi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
