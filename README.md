@@ -1,6 +1,6 @@
 # Hi 👋
 
-**My Languages**:
+**Frameworks and Languages**:
 
 <a href="#">
     <img src="assets/react.svg" style="vertical-align:top margin:6px 4px">
