@@ -10,6 +10,6 @@
 
 ---
 
-```ts
+```js
 console.log("I just want to sleep. 😴💤")
 ```
