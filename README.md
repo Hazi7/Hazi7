@@ -10,4 +10,6 @@
 
 ---
 
-`I just want to sleep. 😴💤`
+```ts
+console.log("I just want to sleep. 😴💤")
+```
