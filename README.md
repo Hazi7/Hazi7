@@ -1,8 +1,10 @@
 ## Hi 👋
 
-**Frameworks and Languages**:
+**Skills**:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py,react,rust,tailwind,ts,vitest,vite,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,py,rust,css,wasm,react,tailwind,vitest,vite,vue,docker,flask)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,py,rust,css,wasm,react,tailwind,vitest,vite,vue,docker,flask)](https://skillicons.dev)
 
 ---
 
