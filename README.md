@@ -3,7 +3,7 @@
 **Skills**:
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img style="height: 42px" src="https://skillicons.dev/icons?i=ts,js,sass,tailwind,py,rust,wasm,react,vue,fastapi,vite,vitest,docker&theme=light" />
   </a>
 </p>
