@@ -8,8 +8,6 @@
   </a>
 </p>
 
-[![github contribution grid snake animation](https://raw.githubusercontent.com/Hazi7/Hazi7/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Hazi7)
-
 ```js
 console.log("I just want to sleep. 😴💤")
 ```
